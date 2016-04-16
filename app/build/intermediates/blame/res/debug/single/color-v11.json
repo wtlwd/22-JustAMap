@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/wangting/Documents/680/Week 9/22-JustAMap/C:\\Users\\James\\AndroidStudioProjects\\22-JustAMap\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/wangting/Documents/680/Week 9/22-JustAMap/C:\\Users\\James\\AndroidStudioProjects\\22-JustAMap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/wangting/Documents/680/Week 9/22-JustAMap/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/wangting/Documents/680/Week 9/22-JustAMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/wangting/Documents/680/Week 9/22-JustAMap/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/wangting/Documents/680/Week 9/22-JustAMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/wangting/Documents/680/Week 9/22-JustAMap/C:\\Users\\James\\AndroidStudioProjects\\22-JustAMap\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/wangting/Documents/680/Week 9/22-JustAMap/C:\\Users\\James\\AndroidStudioProjects\\22-JustAMap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
