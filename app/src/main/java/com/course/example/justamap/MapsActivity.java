@@ -103,6 +103,11 @@ public class MapsActivity extends FragmentActivity {
                 .title("Bentley University")
                 .snippet("Population: 5,000")
                 .icon(BitmapDescriptorFactory.fromResource(R.drawable.marker)));
+        myMap.addMarker(new MarkerOptions()
+                .position(BENTLEY)
+                .title("Harvard University")
+                .snippet("Population: 10,000")
+                .icon(BitmapDescriptorFactory.fromResource(R.drawable.marker)));
     }
 
 }
