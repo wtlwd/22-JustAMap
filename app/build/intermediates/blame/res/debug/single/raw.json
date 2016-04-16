@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/res/raw/gtm_analytics"
+    },
+    {
         "merged": "/Users/wangting/Documents/680/Week 9/22-JustAMap/C:\\Users\\James\\AndroidStudioProjects\\22-JustAMap\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
         "source": "/Users/wangting/Documents/680/Week 9/22-JustAMap/C:\\Users\\James\\AndroidStudioProjects\\22-JustAMap\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\7.3.0\\res\\raw\\gtm_analytics"
     },

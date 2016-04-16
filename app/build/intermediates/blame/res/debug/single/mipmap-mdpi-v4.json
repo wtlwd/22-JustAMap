@@ -6,5 +6,9 @@
     {
         "merged": "/Users/wangting/Documents/680/Week 9/22-JustAMap/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
         "source": "/Users/wangting/Documents/680/Week 9/22-JustAMap/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
+        "source": "/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     }
 ]

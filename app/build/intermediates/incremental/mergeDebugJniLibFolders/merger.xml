@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Users\James\AndroidStudioProjects\22-JustAMap\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\James\AndroidStudioProjects\22-JustAMap\app\src\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/src/debug/jniLibs"/></dataSet></merger>

@@ -1,3 +1,166 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-7.3.0_e9bd548271f6df40bea01d397b2a26fc49951120.jar" />
+    </item>
+    <item
+        jar="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-7.3.0_6ab2ad0fd57ffe63095ce1e4701c4a2f8ae0b3e1.jar" />
+    </item>
+    <item
+        jar="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-7.3.0_8816383cb81e70700843505ace932281544a9f99.jar" />
+    </item>
+    <item
+        jar="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-7.3.0_b800aecf6762bfe7c5d22bf936c10bb3e6ea1997.jar" />
+    </item>
+    <item
+        jar="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-7.3.0_3b0b47f09cb17b793c521e5235c3339b521636f9.jar" />
+    </item>
+    <item
+        jar="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-7.3.0_b1cc663407ab3bcc107dae383a0d5d1c23df6b38.jar" />
+    </item>
+    <item
+        jar="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-7.3.0_f547427ea96bb3a1a8b4130c669377f226c37a1d.jar" />
+    </item>
+    <item
+        jar="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-7.3.0_9bb0139208b0733a8f96b6005262991fe21095eb.jar" />
+    </item>
+    <item
+        jar="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1_a057d7325803cb1c149dcdd5682361e1a6590405.jar" />
+    </item>
+    <item
+        jar="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-7.3.0_676c3b9b9ba9cffee5d78d677b24a0ff39741ea5.jar" />
+    </item>
+    <item
+        jar="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-7.3.0_ba410fb1321c32f3a0981b357ec1c6f16da3c482.jar" />
+    </item>
+    <item
+        jar="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-7.3.0_654a3d168c938166c9be133c31519fc542900a6b.jar" />
+    </item>
+    <item
+        jar="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-7.3.0_e0f694e16c68d076c187e11d57d07d0be3334cc8.jar" />
+    </item>
+    <item
+        jar="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-7.3.0_6ce0f83751704a57298ac73ca21949e2add7f6e8.jar" />
+    </item>
+    <item
+        jar="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appstate-7.3.0_885c8f7e51b3da681ed1df3ffbe740aef334fc84.jar" />
+    </item>
+    <item
+        jar="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-7.3.0_7979f098c3a5998c8cea9e5773ee632e38081f72.jar" />
+    </item>
+    <item
+        jar="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-7.3.0_0014a293ef8825e768e4ddd82876c34817492662.jar" />
+    </item>
+    <item
+        jar="/Users/xuezhou/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1_931802fb55da5524c7617d9c3098d43e965f8952.jar" />
+    </item>
+    <item
+        jar="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.1.1_3ff58dff0145e614a567343e6a0311453328275f.jar" />
+    </item>
+    <item
+        jar="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-7.3.0_fff5ef7f5f6e9eded20e3319166a50874dcbfeb9.jar" />
+    </item>
+    <item
+        jar="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-7.3.0_bef86b33a365290e12e03a4a7770efa19f7448a5.jar" />
+    </item>
+    <item
+        jar="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-7.3.0_277b4554b9c55c63408be4f7d0b4ac9e51fc27f6.jar" />
+    </item>
+    <item
+        jar="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/xuezhou/AndroidStudioProjects/22-JustAMap-github/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.1.1_6cdf728b2f7a47bd6a484b05eb40cbd3cdd6e401.jar" />
+    </item>
+
+</items>
